@@ -24,7 +24,7 @@ An AI-powered digital twin that uses:
 - Gradio chat interface
 - LLM tool calling
 
-[View the project](https://github.com/rajanhans)
+[View the project](https://github.com/rajanhans/digital-twin)
 
 ## Technologies
 
