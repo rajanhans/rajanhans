@@ -36,7 +36,6 @@ An AI-powered digital twin that uses:
 ## Connect With Me
 
 - GitHub: [@rajanhans](https://github.com/rajanhans)
-- LinkedIn: [Add your LinkedIn link]
-- Email: [Add your preferred contact email]
+- LinkedIn: https://www.linkedin.com/in/rajanhans/
 
 Thanks for visiting my profile!
