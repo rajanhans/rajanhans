@@ -26,6 +26,8 @@ An AI-powered digital twin that uses:
 
 [View the project](https://github.com/rajanhans/digital-twin)
 
+[Try it out here](https://huggingface.co/spaces/rhans/digital-twin)
+
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
