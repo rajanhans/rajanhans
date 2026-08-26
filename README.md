@@ -2,6 +2,7 @@
 
 I'm and IT professional with extensive experience designing, delivering, and supporting enterprise software, data, integration, and cloud solutions across banking, healthcare, telecommunications, defense, and the music industry.
 My career spans software engineering, systems analysis, business requirements, solution architecture, project leadership, enterprise integrations, APIs, messaging, microservices, and data-driven applications. I currently lead enterprise application analysis and solution design for Universal Music Group’s Rights & Repertoire platforms.
+
 My current focus is applied Artificial Intelligence, including Generative AI, LLMs, Retrieval-Augmented Generation, agentic AI, prompt engineering, machine learning on Google Cloud, and AI-assisted systems analysis using tools such as OpenAI Codex.
 I’m especially interested in practical AI solutions that improve knowledge discovery, automation, impact analysis, modernization, and business decision-making.
 
