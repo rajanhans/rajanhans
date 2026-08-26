@@ -5,7 +5,7 @@ My career spans software engineering, systems analysis, business requirements, s
 My current focus is applied Artificial Intelligence, including Generative AI, LLMs, Retrieval-Augmented Generation, agentic AI, prompt engineering, machine learning on Google Cloud, and AI-assisted systems analysis using tools such as OpenAI Codex.
 I’m especially interested in practical AI solutions that improve knowledge discovery, automation, impact analysis, modernization, and business decision-making.
 
-## Current Technologies I am working on
+## Current focus on:
 
 - 🤖 Building AI-powered applications and digital assistants
 - 🧠 Interested in LLMs, RAG, embeddings, and vector databases
