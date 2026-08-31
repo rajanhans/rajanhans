@@ -14,8 +14,8 @@ I’m especially interested in practical AI solutions that improve knowledge dis
 - 📚 Continuously learning and experimenting with new technologies
 - 🤝 Open to interesting collaborations and opportunities
 
-[![30 yrsEnterprise Applications](https://img.shields.io/badge/8%2B%20Yrs-Distributed%20Systems-2F80ED?style=for-the-badge)](https://www.linkedin.com/in/rajanhans/details/experience/)
-[![Mortgae Applications (BofA)](https://img.shields.io/badge/Ex--FinTech-Infrastructure-6C5CE7?style=for-the-badge)](https://www.linkedin.com/in/rajanhans/details/experience/)
+[![25+ yrs Enterprise Applications](https://img.shields.io/badge/8%2B%25+Yrs-Enterprise%20Applications-2F80ED?style=for-the-badge)](https://www.linkedin.com/in/rajanhans/details/experience/)
+[![Mortgae Applications (BofA)](https://img.shields.io/badge/Mortgae_Applications_(BofA)-6C5CE7?style=for-the-badge)](https://www.linkedin.com/in/rajanhans/details/experience/)
 
 
 
