@@ -37,7 +37,6 @@ An AI-powered digital twin that uses:
 - LLM tool calling
 
 [![View the project](https://img.shields.io/badge/View%20in%20GitHub-blue?style=for-the-badge)](https://github.com/rajanhans/digital-twin)
-
 [![Try it out here](https://img.shields.io/badge/Try%20out%20Digital%20Twin%20RAG%20Chatbot-CC5500?style=for-the-badge)](https://huggingface.co/spaces/rhans/digital-twin)
 
 
@@ -50,7 +49,8 @@ An AI-powered digital twin that uses:
 
 ## Connect With Me
 
-- GitHub: [@rajanhans](https://github.com/rajanhans)
-- [![LinkedIn Profile ↗](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajanhans/)
+GitHub: [![Github Profile](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&url=https://github.com/rajanhans/)
+
+[![LinkedIn Profile ↗](https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajanhans/)
 
 Thanks for visiting my profile!
