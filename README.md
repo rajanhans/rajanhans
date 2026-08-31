@@ -14,7 +14,9 @@ I’m especially interested in practical AI solutions that improve knowledge dis
 - 📚 Continuously learning and experimenting with new technologies
 - 🤝 Open to interesting collaborations and opportunities
 
-<img alt="Dynamic YAML Badge" src="[https://img.shields.io/badge/dynamic/yaml](https://www.linkedin.com/in/rajanhans/)">
+[![8+ Yrs Distributed Systems](https://img.shields.io/badge/8%2B%20Yrs-Distributed%20Systems-2F80ED?style=for-the-badge)](YOUR_LINKEDIN_URL)
+[![Ex-FinTech Infrastructure](https://img.shields.io/badge/Ex--FinTech-Infrastructure-6C5CE7?style=for-the-badge)](YOUR_LINKEDIN_URL)
+[![LinkedIn Profile ↗](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 
 ## Featured Projects
