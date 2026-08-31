@@ -49,7 +49,8 @@ An AI-powered digital twin that uses:
 
 ## Connect With Me
 
-GitHub: [![Github Profile](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&url=https://github.com/rajanhans/)
+GitHub: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rajanhans/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rajanhans/)
 
 [![LinkedIn Profile ↗](https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajanhans/)
 
