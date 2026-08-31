@@ -1,9 +1,9 @@
 # Hi, I'm Rajan Hans 👋
 
-I'm and IT professional with extensive experience designing, delivering, and supporting enterprise software, data, integration, and cloud solutions across banking, healthcare, telecommunications, defense, and the music industry.
-My career spans software engineering, systems analysis, business requirements, solution architecture, project leadership, enterprise integrations, APIs, messaging, microservices, and data-driven applications. I currently lead enterprise application analysis and solution design for Universal Music Group’s Rights & Repertoire platforms.
+I have 30 years of experience designing, delivering, and supporting enterprise software, data, integration, and cloud solutions across banking, healthcare, telecommunications, defense, and the music industry.
 
 My current focus is applied Artificial Intelligence, including Generative AI, LLMs, Retrieval-Augmented Generation, agentic AI, prompt engineering, machine learning on Google Cloud, and AI-assisted systems analysis using tools such as OpenAI Codex.
+
 I’m especially interested in practical AI solutions that improve knowledge discovery, automation, impact analysis, modernization, and business decision-making.
 
 ## Current focus on:
@@ -13,6 +13,9 @@ I’m especially interested in practical AI solutions that improve knowledge dis
 - 🛠️ Working with Python, OpenAI, Gradio, ChromaDB, and Hugging Face
 - 📚 Continuously learning and experimenting with new technologies
 - 🤝 Open to interesting collaborations and opportunities
+
+<img alt="Dynamic YAML Badge" src="[https://img.shields.io/badge/dynamic/yaml](https://www.linkedin.com/in/rajanhans/)">
+
 
 ## Featured Projects
 
