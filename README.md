@@ -4,27 +4,27 @@ I have 30 years of experience designing, delivering, and supporting enterprise s
 
 <details>
 <summary><strong>Background Highlights</strong></summary>
-Innovative and solutions-focused technology professional with extensive experience designing and delivering enterprise software, data, and cloud solutions for medium to large organizations. Strong background across the full SDLC, from requirements and architecture through development, deployment, and production support.
+I'm and IT professional with extensive experience designing, delivering, and supporting enterprise software, data, integration, and cloud solutions across banking, healthcare, telecommunications, defense, and the music industry.
+
+My career spans software engineering, systems analysis, business requirements, solution architecture, project leadership, enterprise integrations, APIs, messaging, microservices, and data-driven applications. I currently lead enterprise application analysis and solution design for Universal Music Group’s Rights & Repertoire platforms.
+
 
 [![25+ yrs Enterprise Applications](https://img.shields.io/badge/25%2B%20yrs-Enterprise%20Applications-yellowgreen?style=for-the-badge)](https://www.linkedin.com/in/rajanhans/details/experience/)
 [![IT Manager - Music Industry](https://img.shields.io/badge/IT%20Manager-Music%20Industry(UMG)-CC5500?style=for-the-badge)](https://www.linkedin.com/in/rajanhans/details/experience/)
 [![Mortgae Applications (BofA)](https://img.shields.io/badge/Mortgae_Applications_(BofA)-6C5CE7?style=for-the-badge)](https://www.linkedin.com/in/rajanhans/details/experience/)
 </details>
 
-## Current focus on:
-My current focus is applied Artificial Intelligence, including Generative AI, LLMs, Retrieval-Augmented Generation, agentic AI, prompt engineering, machine learning on Google Cloud, and AI-assisted systems analysis using tools such as OpenAI Codex.
+## Current Focus on AI
 
-<details>
-<summary><strong>AI Highlights</strong></summary>
+My current focus is applied Artificial Intelligence including Generative AI, LLMs, Retrieval-Augmented Generation, agentic AI, prompt engineering, machine learning on Google Cloud, and AI-assisted systems analysis using tools such as OpenAI Codex.
+
+
 I’m especially interested in practical AI solutions that improve knowledge discovery, automation, impact analysis, modernization, and business decision-making.
 - 🤖 Building AI-powered applications and digital assistants
 - 🧠 Interested in LLMs, RAG, embeddings, and vector databases
 - 🛠️ Working with Python, OpenAI, Gradio, ChromaDB, and Hugging Face
 - 📚 Continuously learning and experimenting with new technologies
 - 🤝 Open to interesting collaborations and opportunities
-
-</details>
-
 
 
 ## Featured Projects
