@@ -36,8 +36,10 @@ An AI-powered digital twin that uses:
 - Gradio chat interface
 - LLM tool calling
 
+[![View the project](https://img.shields.io/badge/Digital%20Twin-RAG%20Chatbot-CC5500?style=for-the-badge)](https://github.com/rajanhans/digital-twin)
 [View the project](https://github.com/rajanhans/digital-twin)
 
+[![Try it out here](https://img.shields.io/badge/Try%20Out%20Digital%20Twin-RAG%20Chatbot-CC5500?style=for-the-badge)](https://huggingface.co/spaces/rhans/digital-twin)
 [Try it out here](https://huggingface.co/spaces/rhans/digital-twin)
 
 ## Technologies
