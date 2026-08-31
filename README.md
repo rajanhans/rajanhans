@@ -7,7 +7,7 @@ My current focus is applied Artificial Intelligence, including Generative AI, LL
 I’m especially interested in practical AI solutions that improve knowledge discovery, automation, impact analysis, modernization, and business decision-making.
 
 [![25+ yrs Enterprise Applications](https://img.shields.io/badge/25%2B%20yrs-Enterprise%20Applications-yellowgreen?style=for-the-badge)](https://www.linkedin.com/in/rajanhans/details/experience/)
-[![IT Manager - Music Industry](https://img.shields.io/badge/IT%20Manager-Music%20Industry(UMG)-orangegreen?style=for-the-badge)](https://www.linkedin.com/in/rajanhans/details/experience/)
+[![IT Manager - Music Industry](https://img.shields.io/badge/IT%20Manager-Music%20Industry(UMG)-CC5500?style=for-the-badge)](https://www.linkedin.com/in/rajanhans/details/experience/)
 [![Mortgae Applications (BofA)](https://img.shields.io/badge/Mortgae_Applications_(BofA)-6C5CE7?style=for-the-badge)](https://www.linkedin.com/in/rajanhans/details/experience/)
 
 
